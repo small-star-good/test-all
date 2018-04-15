@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test_3.2</string>
+    <string name="B1">ORANGE</string>
+    <string name="B2">RED</string>
+    <string name="B3">YELLOW</string>
+    <string name="B4">BLUE</string>
+    <string name="B5">GREEN</string>
+    <string name="B6">INDIGO</string>
+    <string name="B7">VIOLET</string>
+</resources>
