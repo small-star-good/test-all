@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_entries">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charle Option 03</item>
+    </string-array>
+
+  <string-array name="list_entries_value">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charle Option 03</item>
+    </string-array>
+
+    <string-array name="list_entries_value2">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charle Option 03</item>
+    </string-array>
+</resources>
