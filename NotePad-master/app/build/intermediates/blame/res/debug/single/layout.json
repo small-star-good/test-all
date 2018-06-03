@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_noteeditor.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\activity_noteeditor.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_noteeditor.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\activity_noteeditor.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rv_notes_item.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\rv_notes_item.xml"
+    },
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\taobao\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "D:\\taobao\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "E:\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rv_notes_item.xml",
+        "source": "E:\\NotePad-master\\app\\src\\main\\res\\layout\\rv_notes_item.xml"
+    }
+]
